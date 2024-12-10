@@ -1,0 +1,27 @@
+PROBLEM_IDENTIFIED = "PROBLEM_IDENTIFIED"
+ADD_LOGS = "ADD_LOGS"
+THINKING_LOGS = [
+    "Aipa is crunching the numbers...",
+    "Aipa is deep in thought...",
+    "Aipa is analyzing your request...",
+    "Aipa is brewing up a solution...",
+    "Aipa is putting the pieces together...",
+    "Aipa is working its magic...",
+    "Aipa is crafting the perfect response...",
+    "Aipa is decoding your query...",
+    "Aipa is on the case...",
+    "Aipa is computing an answer...",
+    "Aipa is sorting through the data...",
+    "Aipa is gathering insights...",
+    "Aipa is making connections...",
+    "Aipa is tuning the algorithms...",
+    "Aipa is piecing together the puzzle...",
+    "Aipa is scanning the possibilities...",
+    "Aipa is engineering a response...",
+    "Aipa is building the answer...",
+    "Aipa is mapping out a solution...",
+    "Aipa is figuring this out for you...",
+    "Aipa is thinking hard right now...",
+    "Aipa is working for you, so relax!",
+    "Aipa might take some time to figure this out...",
+]
